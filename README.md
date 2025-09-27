@@ -1,1 +1,2 @@
 This is a repository built for practicing EDA. The data files are quite huge in size, so couldn't be uploaded. but the columns which have been used in the datafiles, the explanations of those columns are given in a csv file.
+Different types of data wrangling and data visualization haveen performed here using Pythin scripts.Libraries like: Numpy, Pandas, Matplotlib, Seaborn etc have been used here in this python file.
