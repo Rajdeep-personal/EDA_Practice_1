@@ -1,0 +1,1 @@
+This is a repository built for practicing EDA. The data files are quite huge in size, so couldn't be uploaded. but the columns which have been used in the datafiles, the explanations of those columns are given in a csv file.
